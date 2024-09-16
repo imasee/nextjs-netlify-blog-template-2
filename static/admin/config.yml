@@ -1,5 +1,9 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: imasee/nextjs-netlify-blog-template-2 
+  # Path to your GitHub repository
+  # optional, defaults to master
+  # branch: main
 # These lines should *not* be indented
 media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/img/" # The src attribute for uploaded media will begin with /images/uploads
