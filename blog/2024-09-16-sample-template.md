@@ -1,17 +1,17 @@
 ---
 title: Sample template
-slug: buttons
+slug: chip
 tags:
   - Buttins
 ---
-# Button
+# Chips
 
 - - -
 
 #### Angular Material buttons are native elements enhanced with Material Design styling and ink ripples.
 
  <iframe
-  src="https://5ccbc373887ca40020446347-wtuhidckxo.chromatic.com/iframe.html?id=shadowboxcta--default&viewMode=story&shortcuts=false&singleStory=true"
+  src="https://triparcfrontenddocs.z13.web.core.windows.net/npm-common-components-storybook/iframe.html?args=&id=components-chips-basicchips--basic-chip-with-icon&viewMode=story"
   width="800"
-  height="200"
+  height="100"
 ></iframe>
