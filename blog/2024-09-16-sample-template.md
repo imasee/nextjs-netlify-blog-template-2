@@ -1,12 +1,14 @@
 ---
 title: Sample template
 slug: buttons
+tags:
+  - Buttins
 ---
 # Button
 
 - - -
 
-#### Angular Material buttons are native <button> or <a> elements enhanced with Material Design styling and ink ripples.
+#### Angular Material buttons are native elements enhanced with Material Design styling and ink ripples.
 
  <iframe
   src="https://5ccbc373887ca40020446347-wtuhidckxo.chromatic.com/iframe.html?id=shadowboxcta--default&viewMode=story&shortcuts=false&singleStory=true"
