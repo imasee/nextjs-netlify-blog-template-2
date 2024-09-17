@@ -1,6 +1,6 @@
 ---
-sidebar_label: Hi!
-sidebar_position: 1
+sidebar_label: Not found
+sidebar_position: 2
 title: Not found component
 slug: not-found
 authors:
