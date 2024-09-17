@@ -1,7 +1,7 @@
 ---
 sidebar_label: Hi!
 sidebar_position: 1
-title: Chip Component
+title: Not found component
 slug: not-found
 authors:
   - name: Test author
@@ -9,6 +9,7 @@ authors:
     url: test-url
     imageUrl: test-image
 ---
+
 # Not found component
 
 This is a story book doc test page.
