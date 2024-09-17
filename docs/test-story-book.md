@@ -2,22 +2,21 @@
 sidebar_label: Hi!
 sidebar_position: 1
 title: Chip Component
-slug: chip
-authors: []
+slug: not-found
+authors:
+  - name: Test author
+    title: Test
+    url: test-url
+    imageUrl: test-image
 ---
-# Chip Component
+# Not found component
 
-Chips allow users to view information, make selections, filter content, and enter data.
-Static Chips
-
-Chips are always used inside a container. To create chips, start with a `<mat-chip-set>` element. Then, nest `<mat-chip>` elements inside the `<mat-chip-set>`.
-
-
+This is a story book doc test page.
 
 ## Story book
 
  <iframe
-  src="https://triparcfrontenddocs.z13.web.core.windows.net/npm-common-components-storybook/iframe.html?args=&id=components-chips-basicchips--basic-chip-with-icon&viewMode=story"
-  width="800"
-  height="90"
+  src="https://triparcfrontenddocs.z13.web.core.windows.net/npm-common-components-storybook/iframe.html?args=&globals=backgrounds.value:!hex(F8F8F8)&id=components-shared-error-template--default-not-found&viewMode=story"
+  width="100%"
+  height="450"
 ></iframe>
