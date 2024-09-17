@@ -5,7 +5,7 @@ title: Chip Component
 slug: chip
 authors: []
 ---
-# Chip Component
+# Chip Component test
 
 Chips allow users to view information, make selections, filter content, and enter data.
 Static Chips
