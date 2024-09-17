@@ -1,5 +1,5 @@
 ---
-sidebar_label: Hi!
+sidebar_label: Chip Component
 sidebar_position: 1
 title: Chip Component
 slug: chip
